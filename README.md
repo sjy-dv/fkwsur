@@ -7,3 +7,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkwsur&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 		
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guswl543210@gmail.com)](mailto:guswl543210@gmail.com)
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
