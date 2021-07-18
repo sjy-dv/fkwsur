@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?height=200&text=Hyun_Ji&fontSize=100&animation=fadeIn&fontColor=bd846b&&color=cead94)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guswl543210@gmail.com)](mailto:guswl543210@gmail.com)
 
 <h3 align="center">🏹Status</h3>
 
@@ -19,3 +18,9 @@
  <img src="https://img.shields.io/badge/MongoDB-6DB33F?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
 </p>
+
+<h3 align="center">⚔🗡Contact Me</h3>
+<p align="center">
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guswl543210@gmail.com)](mailto:guswl543210@gmail.com)
+</p>
+ 
