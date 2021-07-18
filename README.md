@@ -1,6 +1,6 @@
 
 <div>
-<img align="left" src="https://thumbs.gfycat.com/SimpleMadIceblueredtopzebra.webp"/>
+<img align="left" src="https://thumbs.gfycat.com/SimpleMadIceblueredtopzebra.webp" width="100"/>
 <h1 align="right">💗Hyun_Ji</h1>
 </div>
 <br />
