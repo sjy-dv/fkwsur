@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center" margin="0 32%" font="700 14rem/1.3 'Teko', sans-serif" font-style="italic" color="#415b48"text-shadow="-2px -2px 0 #fff, 2px -2px 0 #fff, -2px 2px 0 #fff, 2px 2px 0 #fff"margin-bottom="10px">Hyun-Ji Kim</h2>
+<h3 align="center">Hyun-Ji Kim</h2>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffkwsur&count_bg=%23FFC6F7&title_bg=%239D6A57&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
