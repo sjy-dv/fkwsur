@@ -1,7 +1,7 @@
 
 
-
-<h3 align="center"><img src="https://i.gifer.com/ZOHV.gif" width="100"/>💗Hyun Ji</h1>
+<img align="center" src="https://i.pinimg.com/originals/a0/24/c2/a024c2bfb19f08cd156e4f733be1c5fb.gif width="100%"/>
+<h3 align="center">💗Hyun Ji</h1>
 
 <br />
 <br />
