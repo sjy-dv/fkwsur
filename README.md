@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=HyunJi%Kim&fontSize=150&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=HyunJi%Kim&fontSize=150&animation=fadeIn&fontColor=d6ace6)
 )
 
 
