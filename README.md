@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=200&fontSize=150&animation=fadeIn&fontColor=bd846b&&color=cead94)
-)
-
+![header](https://capsule-render.vercel.app/api?height=200&fontSize=150&animation=fadeIn&fontColor=bd846b&&color=cead94&type=egg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffkwsur&count_bg=%23FFC6F7&title_bg=%239D6A57&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 		
@@ -13,6 +11,4 @@
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white"/>&nbsp
  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/MongoDB-6DB33F?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp</p>
-
-![footer](https://capsule-render.vercel.app/api?height=200&color=cead94&section=footer)
+ <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp</p
