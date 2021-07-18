@@ -4,7 +4,7 @@
 		
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guswl543210@gmail.com)](mailto:guswl543210@gmail.com)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22983408-2c92-4661-869c-a7aafe725f6d/OddballFormalCat-max-1mb.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22983408-2c92-4661-869c-a7aafe725f6d/OddballFormalCat-max-1mb.gif)
+ <img src="https://thumbs.gfycat.com/OddballFormalCat-max-1mb.gif"/>&nbsp
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkwsur&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
