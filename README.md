@@ -4,7 +4,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guswl543210@gmail.com)](mailto:guswl543210@gmail.com)
 
-<img align="right" src="https://gifer.com/embed/C5Q5"/>
+<iframe src="https://gifer.com/embed/C5Q5" width=480 height=255.663 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 <img align="right" src="https://thumbs.gfycat.com/OddballFormalCat-max-1mb.gif"/>
 
