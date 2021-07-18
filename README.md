@@ -1,5 +1,5 @@
 
-<img align="right" src="https://thumbs.gfycat.com/OddballFormalCat-max-1mb.gif"/>
+<img align="right" src="https://thumbs.gfycat.com/SimpleMadIceblueredtopzebra.webp"/>
 
 <h3 align="center">🏹Status</h3>
 
