@@ -4,13 +4,12 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guswl543210@gmail.com)](mailto:guswl543210@gmail.com)
 
-
+<h3 align="center">🏹Status</h3>
 <img align="right" src="https://thumbs.gfycat.com/OddballFormalCat-max-1mb.gif"/>
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkwsur&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">⭐Skills</h3>
+<h3 align="center">⚔Skills</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white"/>&nbsp
