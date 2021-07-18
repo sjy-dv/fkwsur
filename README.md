@@ -1,7 +1,9 @@
 
-<div display="block">
-<img align="right" src="https://thumbs.gfycat.com/SimpleMadIceblueredtopzebra.webp"/>
- </div>
+
+<img align="left" src="https://thumbs.gfycat.com/SimpleMadIceblueredtopzebra.webp"/>
+<h3 align="right"💗Hyun_Ji</h3>
+
+<br />
 
 <h3 align="center">🏹Status</h3>
 
