@@ -8,4 +8,4 @@
 		
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guswl543210@gmail.com)](mailto:guswl543210@gmail.com)
 
-![footer](https://capsule-render.vercel.app/api?height=300&color=cead94&section=footer)
+![footer](https://capsule-render.vercel.app/api?height=200&color=cead94&section=footer)
