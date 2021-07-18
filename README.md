@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=200&text=Hyun_Ji&fontSize=100&animation=fadeIn&fontColor=bd846b&&color=cead94)
+![header](https://capsule-render.vercel.app/api?height=200&text=Hyun_Ji&fontSize=100&animation=fadeIn&fontColor=D83B7D&&color=cead94)
 
 
 <h3 align="center">🏹Status</h3>
