@@ -1,6 +1,6 @@
 
 
-<img align="center" src="https://i.pinimg.com/originals/a0/24/c2/a024c2bfb19f08cd156e4f733be1c5fb.gif" width="100%" height="100px" object-fit="cover"/>
+<img align="center" src="https://i.pinimg.com/originals/a0/24/c2/a024c2bfb19f08cd156e4f733be1c5fb.gif" width="100%" height="100px" objectfit="cover"/>
 <h3 align="center">💗Hyun Ji</h1>
 
 <br />
