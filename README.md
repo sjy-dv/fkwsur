@@ -3,8 +3,6 @@
 <h1 align="center">💗Hyun Ji</h1>
 
 <br />
-<br />
-<br /><br />
 
 <h3 align="center">🏹Status</h3>
 
