@@ -5,7 +5,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guswl543210@gmail.com)](mailto:guswl543210@gmail.com)
 
-<img src="https://thumbs.gfycat.com/OddballFormalCat-max-1mb.gif"/>
+<img align="right" src="https://thumbs.gfycat.com/OddballFormalCat-max-1mb.gif"/>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkwsur&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
